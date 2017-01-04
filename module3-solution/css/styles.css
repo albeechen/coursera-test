@@ -1,0 +1,43 @@
+/*header start*/
+#header-nav {
+  	border-radius: 0;
+  	border: 0;
+}
+.navbar-brand{
+  	padding-top: 5px;
+}
+.navbar-brand h1 {
+	font-family: 'Permanent Marker', cursive;
+	text-transform: uppercase;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+  	margin-top: 0;
+  	margin-bottom: 0;
+  	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+#nav-list{
+	text-align: center;
+}
+h3{
+	margin: 20px auto;
+	font-weight: bold;
+	font-family: 'Permanent Marker', cursive;
+}
+h4{
+	padding: 20px 10px;
+	font-color: white;
+}
+#cover-chicken{
+	background-color: darkgrey;
+	border: 1px solid black;
+	margin: 50px 30px;
+}
+
+/*header send*/
