@@ -19,25 +19,20 @@
   text-decoration: none;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  	background: #E7E7E7;
 }
-
 #nav-list{
 	text-align: center;
 }
 h3{
-	margin: 20px auto;
 	font-weight: bold;
 	font-family: 'Permanent Marker', cursive;
 }
 h4{
-	padding: 20px 10px;
 	font-color: white;
 }
 #cover-chicken{
+	margin: 10px;
 	background-color: darkgrey;
-	border: 1px solid black;
-	margin: 50px 30px;
 }
-
 /*header send*/
